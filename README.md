@@ -8,4 +8,5 @@ Coursera Getting and Cleaning Data Project Repo
 
 3. I didn't have time to complete the run_analysis.R script, so basically, those are the steps.
 
-## What it does, it currently reads some of the files from the paths inferred from being in the correct working directory.
+What it does:
+It currently reads some of the files from the paths inferred from being in the correct working directory.
